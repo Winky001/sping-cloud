@@ -1,4 +1,4 @@
-package org.shirdrn.springcloud.eureka.applicationservice.greeting;
+package com.luolei.spring.could.application.service;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

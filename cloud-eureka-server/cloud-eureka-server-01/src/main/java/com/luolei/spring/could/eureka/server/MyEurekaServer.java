@@ -1,4 +1,4 @@
-package org.shirdrn.springcloud.eureka.server;
+package com.luolei.spring.could.eureka.server;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
